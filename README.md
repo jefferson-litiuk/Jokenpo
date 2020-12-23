@@ -5,7 +5,7 @@
 
 <h3>👀 Sobre</h3>
 
-O projeto Jokenpo é um jogo dinâmico onde o objetivo é escolher entre pedra, papel e tesoura com o objetivo de ganhar do computador,é um jogo divertido, para se entreter nas horas vagas. Foi criado atravez do de um site de desafios chamado puzzle onde você coloca em prática seus estudos em sistemas randômicos. 
+O projeto Jokenpo é um jogo dinâmico onde o objetivo é escolher entre pedra, papel e tesoura com o objetivo de ganhar do computador,é um jogo divertido para se entreter nas horas vagas. Foi criado através de um site de desafios chamado puzzle e com isso coloquei em prática meus estudos. 
 
 
 <h3>🖥 Tecnologias ultilizadas</h3>
